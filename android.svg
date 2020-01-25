@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Android_new_logo_2019.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 8.4931191 4.7624755"
+   height="17.999907"
+   width="32.099979">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="1395"
+     inkscape:window-width="2560"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="8.9999533"
+     inkscape:cx="16.04999"
+     inkscape:zoom="64.517175"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       originy="186.32063"
+       originx="-149.49197"
+       id="grid823"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-149.49194,-443.57045)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:#32de84;stroke-width:0.00924571"
+       inkscape:connector-curvature="0"
+       class="st0"
+       d="m 155.81051,445.00539 0.70452,-1.22043 c 0.0397,-0.0684 0.0157,-0.15533 -0.0518,-0.19509 -0.0675,-0.0397 -0.15533,-0.0166 -0.19416,0.0518 l -0.71377,1.23615 c -0.54457,-0.24871 -1.15756,-0.38739 -1.81678,-0.38739 -0.65922,0 -1.27221,0.13868 -1.81678,0.38739 l -0.71377,-1.23615 c -0.0398,-0.0684 -0.12667,-0.0915 -0.19509,-0.0518 -0.0684,0.0397 -0.0915,0.12667 -0.0518,0.19509 l 0.70453,1.22043 c -1.21489,0.6583 -2.03776,1.88798 -2.17367,3.32754 h 8.49312 c -0.13592,-1.43956 -0.95879,-2.66924 -2.1746,-3.32754 z m -4.02189,2.13484 c -0.19693,0 -0.35596,-0.15995 -0.35596,-0.35596 0,-0.19694 0.15995,-0.35596 0.35596,-0.35596 0.19693,0 0.35596,0.15995 0.35596,0.35596 9.6e-4,0.19601 -0.15903,0.35596 -0.35596,0.35596 z m 3.89892,0 c -0.19693,0 -0.35596,-0.15995 -0.35596,-0.35596 0,-0.19694 0.15995,-0.35596 0.35596,-0.35596 0.19693,0 0.35596,0.15995 0.35596,0.35596 9.6e-4,0.19601 -0.15903,0.35596 -0.35596,0.35596 z"
+       id="path80319" />
+  </g>
+  <style
+     type="text/css"
+     id="style80315">
+	.st0{fill:#32de84;}
+</style>
+</svg>

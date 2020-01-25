@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 4.7624998 4.0821424"
+   height="4.0821424mm"
+   width="4.7624998mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-90.525299,-23.172475)"
+     id="layer1">
+    <g
+       id="g147">
+      <rect
+         style="fill:#ffffff;stroke-width:0.264583;fill-opacity:1"
+         id="rect143"
+         width="4.0821443"
+         height="3.4017861"
+         x="90.865479"
+         y="23.512653" />
+      <path
+         id="path14"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Hack Nerd Font';-inkscape-font-specification:'Hack Nerd Font Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136072"
+         d="m 92.906549,25.893904 h 1.360715 v 0.340178 h -1.360715 z m -1.020536,0.340178 -0.225899,-0.2259 0.736167,-0.794636 -0.736167,-0.794635 0.225899,-0.225901 1.020536,1.020536 z m 3.401786,-2.721429 v 3.401786 q 0,0.340179 -0.340178,0.340179 h -4.082144 q -0.340178,0 -0.340178,-0.340179 v -3.401786 q 0,-0.340178 0.340178,-0.340178 h 4.082144 q 0.340178,0 0.340178,0.340178 z m -0.340178,0 h -4.082144 v 3.401786 h 4.082144 z" />
+    </g>
+  </g>
+</svg>
