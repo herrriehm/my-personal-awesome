@@ -12,6 +12,7 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 * [pandoc](https://github.com/jgm/pandoc): Universal markup converter. ![OSS][oss] ![Linux][linux] ![Mac][mac] ![Windows][windows] ![CLI][cli]
 * [Scribus](https://www.scribus.net/): Open Source Desktop Publishing. ![OSS][oss] ![Linux][linux] ![Mac][mac] ![Windows][windows]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/): Word-processing program and outliner designed for authors. ![Mac][mac] ![Windows][windows]
+* [Zettlr](https://github.com/Zettlr/Zettlr): A Markdown Editor for the 21st century. ![Linux][linux] ![Mac][mac] ![Windows][windows] ![OSS][oss]
 
 ## Programming.
 * [conda](https://github.com/conda/conda): Open-source, cross-platform, language-agnostic package manager and environment management system. ![OSS][oss] ![Linux][linux] ![Mac][mac] ![Windows][windows] ![CLI][cli]
@@ -67,6 +68,7 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 ## Fun & Games.
 * [2048.c](https://github.com/mevdschee/2048.c): Console version of the game "2048" for GNU/Linux. ![OSS][oss] ![Linux][linux] ![Mac][mac]
 * [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay): Configurable talking characters in ASCII art. ![OSS][oss] ![Linux][linux] ![Mac][mac]
+* [‎Good Sudoku by Zach Gage](https://apps.apple.com/us/app/id1489118195): ![iOS][ios] ![iOS][ios]
 * [lolcat](https://github.com/busyloop/lolcat): Rainbows and unicorns in your console! ![OSS][oss] ![Linux][linux] ![Mac][mac]
 * [mednaffe](https://github.com/AmatCoder/mednaffe): A front-end (GUI) for mednafen emulator. ![OSS][oss] ![Linux][linux] ![Windows][windows]
 * [OpenEmu](https://openemu.org/): Multiple Video Game System. ![OSS][oss] ![Mac][mac]
@@ -98,6 +100,7 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 * [lsd](https://github.com/Peltoche/lsd): Clone of ls with colorful output, file type icons, and more. ![OSS][oss] ![Linux][linux] ![Mac][mac]
 * [Marta](https://marta.yanex.org/): Dual pane file manager for macOS. ![Mac][mac]
 * [Midnight Commander](https://www.midnight-commander.org/): Terminal-based visual file manager. ![OSS][oss] ![Linux][linux] ![Mac][mac]
+* [Ncdu](https://dev.yorhel.nl/ncdu): disk usage analyzer with an ncurses interface. ![OSS][oss] ![CLI][cli]
 * [ranger](https://ranger.github.io): File browser. ![OSS][oss] ![Linux][linux] ![Mac][mac]
 * [ripgrep-all](https://github.com/phiresky/ripgrep-all): Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. ![OSS][oss] ![Linux][linux] ![Mac][mac] ![Windows][windows]
 * [ripgrep](https://github.com/BurntSushi/ripgrep): Ripgrep recursively searches directories for a regex pattern. ![OSS][oss] ![Linux][linux] ![Mac][mac] ![Windows][windows]
@@ -108,7 +111,7 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 * [1Password](https://1password.com/): Password manager. ![Mac][mac]
 * [7-Zip](https://7-zip.org/): File archiver with a high compression ratio. ![OSS][oss] ![Windows][windows]
 * [Alfred](https://www.alfredapp.com/): Quicklaunch application. ![Mac][mac]
-* [alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS (switch between windows not app. ![OSS][oss] ![Mac][mac]
+* [AltTab](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS. ![OSS][oss] ![Mac][mac]
 * [AppCleaner](https://freemacsoft.net/appcleaner/): Small application which allows you to thoroughly uninstall unwanted apps. ![Mac][mac]
 * [AquaSnap Window Manager](https://www.nurgo-software.com/products/aquasnap): Dock, snap, tile, organize. ![Windows][windows]
 * [Arq](https://www.arqbackup.com/) backs up your files securely to your cloud account or NAS. ![Mac][mac] ![Windows][windows]
@@ -169,6 +172,7 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 * [w3m](https://w3m.sourceforge.io/): Pager/text based browser. ![OSS][oss] ![Linux][linux] ![Mac][mac] ![Windows][windows]
 
 ### Social Networks.
+* [Bibliogram](https://bibliogram.art/): a website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up. ![OSS][oss]
 * [cawbird](https://github.com/IBBoard/cawbird): A fork of the Corebird GTK Twitter client that continues to work with Twitter. ![OSS][oss] ![Linux][linux]
 * [invidious](https://github.com/omarroth/invidious): Alternative front-end to YouTube. ![OSS][oss]
 * [nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end. ![OSS][oss]
@@ -261,6 +265,7 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 ### Sports & Health.
 * [AutoSleep](http://autosleep.tantsissa.com/): Auto Sleep Tracker & Monitor. ![iOS][ios]
 * [CodeCheck: Produkt Scanner](https://codecheck-app.com/): Scan barcodes & shop healthy. ![iOS][ios] ![Android][android]
+* [GPSBabel](https://www.gpsbabel.org/): convert, upload, download data from GPS and Map programs. !![Linux][linux] ![Mac][mac] ![Windows][windows]
 * [HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514): Export your workouts. ![iOS][ios]
 * [iSmoothRun](http://www.ismoothrun.com/): The ultimate app for runners. ![iOS][ios]
 * [RunGap](http://www.rungap.com/): Free Workout Data Manager for iOS. ![iOS][ios]
@@ -291,6 +296,7 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 * [1Password](https://1password.com/downloads/): Generate & keep passwords safe. ![iOS][ios] ![Android][android]
 * [Banking4](https://subsembly.com/banking4.html): Banking für Profis. ![iOS][ios] ![Android][android]
 * [F-Droid](https://f-droid.org/): Free and Open Source Android App Repository. ![Android][android] ![OSS][oss]
+* [Hue Essentials](https://www.hueessentials.com/): Discover ways to get the most out of your smart lighting. ![iOS][ios] ![Android][android]
 * [Jump](https://jumpdesktop.com/): Remote desktop. ![iOS][ios] ![Android][android]
 * [MobileData](https://elaborateapps.com/mobiledata-data-usage-widget): Mobile data usage. ![iOS][ios]
 * [Mocha WOL](http://mochasoft.dk/iphone_wol.htm): Use your iPhone or iPad to power up a sleeping Mac or PC on your network. ![iOS][ios]
@@ -300,6 +306,14 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 * [Splid](https://splid.app/): Split expenses the easy way. ![iOS][ios] ![Android][android]
 * [WarnWetter](https://www.warnwetterapp.de/): Detaillierte Informationen zur aktuellen Warn- und Wetterlage. ![iOS][ios] ![Android][android]
 
+---
+
+## Smart Home
+* [diyHue](https://github.com/diyhue/diyHue): A Hue bridge emulator. ![OSS][oss]
+* [homebridge](https://github.com/homebridge/homebridge): HomeKit support for the impatient. ![OSS][oss]
+* [RaspBee](https://www.phoscon.de/de/raspbee/): The Raspberry Pi Zigbee gateway.
+* [rrcc](https://github.com/LazyT/rrcc): RoboRock Control Center. ![Linux][linux] ![Mac][mac] ![Windows][windows] ![OSS][oss]
+* [Valetudo](https://github.com/hypfer/valetudo): Cloud-free control webinterface for vacuum robots. ![CLI][cli] ![OSS][oss]
 
 ---
 
