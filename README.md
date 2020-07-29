@@ -58,17 +58,17 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 * [Trimage](https://github.com/Kilian/Trimage): Cross-platform GUI and command-line interface for optimizing PNG and JPG files. ![OSS][oss] ![Linux][linux] ![Mac][mac] ![Windows][windows]
 
 ### Color schemes.
-* [Smyck Color Scheme](http://color.smyck.org/) for terminals and text editors.  
+* [Smyck Color Scheme](http://color.smyck.org/) for terminals and text editors.
 ![smyck][smyck]
-* Diverging color map: "Cool To Warm" ([Diverging Color Maps for Scientific Visualization](https://www.kennethmoreland.com/color-maps/))  
+* Diverging color map: "Cool To Warm" ([Diverging Color Maps for Scientific Visualization](https://www.kennethmoreland.com/color-maps/))
 ![cool2warm][cool2warm]
-* Sequential color map: "Viridis" ([matplotlib colormaps](https://bids.github.io/colormap/))  
+* Sequential color map: "Viridis" ([matplotlib colormaps](https://bids.github.io/colormap/))
 ![viridis][viridis]
 
 ## Fun & Games.
 * [2048.c](https://github.com/mevdschee/2048.c): Console version of the game "2048" for GNU/Linux. ![OSS][oss] ![Linux][linux] ![Mac][mac]
 * [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay): Configurable talking characters in ASCII art. ![OSS][oss] ![Linux][linux] ![Mac][mac]
-* [‎Good Sudoku by Zach Gage](https://apps.apple.com/us/app/id1489118195): ![iOS][ios] ![iOS][ios]
+* [‎Good Sudoku by Zach Gage](https://apps.apple.com/us/app/id1489118195): Sudoku that loves you. ![iOS][ios]
 * [lolcat](https://github.com/busyloop/lolcat): Rainbows and unicorns in your console! ![OSS][oss] ![Linux][linux] ![Mac][mac]
 * [mednaffe](https://github.com/AmatCoder/mednaffe): A front-end (GUI) for mednafen emulator. ![OSS][oss] ![Linux][linux] ![Windows][windows]
 * [OpenEmu](https://openemu.org/): Multiple Video Game System. ![OSS][oss] ![Mac][mac]
@@ -265,7 +265,7 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 ### Sports & Health.
 * [AutoSleep](http://autosleep.tantsissa.com/): Auto Sleep Tracker & Monitor. ![iOS][ios]
 * [CodeCheck: Produkt Scanner](https://codecheck-app.com/): Scan barcodes & shop healthy. ![iOS][ios] ![Android][android]
-* [GPSBabel](https://www.gpsbabel.org/): convert, upload, download data from GPS and Map programs. !![Linux][linux] ![Mac][mac] ![Windows][windows]
+* [GPSBabel](https://www.gpsbabel.org/): convert, upload, download data from GPS and Map programs. ![OSS][oss] ![Linux][linux] ![Mac][mac] ![Windows][windows]
 * [HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514): Export your workouts. ![iOS][ios]
 * [iSmoothRun](http://www.ismoothrun.com/): The ultimate app for runners. ![iOS][ios]
 * [RunGap](http://www.rungap.com/): Free Workout Data Manager for iOS. ![iOS][ios]
@@ -296,7 +296,6 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 * [1Password](https://1password.com/downloads/): Generate & keep passwords safe. ![iOS][ios] ![Android][android]
 * [Banking4](https://subsembly.com/banking4.html): Banking für Profis. ![iOS][ios] ![Android][android]
 * [F-Droid](https://f-droid.org/): Free and Open Source Android App Repository. ![Android][android] ![OSS][oss]
-* [Hue Essentials](https://www.hueessentials.com/): Discover ways to get the most out of your smart lighting. ![iOS][ios] ![Android][android]
 * [Jump](https://jumpdesktop.com/): Remote desktop. ![iOS][ios] ![Android][android]
 * [MobileData](https://elaborateapps.com/mobiledata-data-usage-widget): Mobile data usage. ![iOS][ios]
 * [Mocha WOL](http://mochasoft.dk/iphone_wol.htm): Use your iPhone or iPad to power up a sleeping Mac or PC on your network. ![iOS][ios]
@@ -311,8 +310,9 @@ If you know a replacement for a tool on this list, you are more than welcome to 
 ## Smart Home
 * [diyHue](https://github.com/diyhue/diyHue): A Hue bridge emulator. ![OSS][oss]
 * [homebridge](https://github.com/homebridge/homebridge): HomeKit support for the impatient. ![OSS][oss]
+* [Hue Essentials](https://www.hueessentials.com/): Discover ways to get the most out of your smart lighting. ![iOS][ios] ![Android][android]
 * [RaspBee](https://www.phoscon.de/de/raspbee/): The Raspberry Pi Zigbee gateway.
-* [rrcc](https://github.com/LazyT/rrcc): RoboRock Control Center. ![Linux][linux] ![Mac][mac] ![Windows][windows] ![OSS][oss]
+* [rrcc](https://github.com/LazyT/rrcc): RoboRock Control Center. ![OSS][oss] ![Linux][linux] ![Mac][mac] ![Windows][windows]
 * [Valetudo](https://github.com/hypfer/valetudo): Cloud-free control webinterface for vacuum robots. ![CLI][cli] ![OSS][oss]
 
 ---
